@@ -46,6 +46,3 @@ render(){
 }
 
 export default Recipe
-
-
-/* Line 11 props logic at Hamza Mirza video https://www.youtube.com/watch?v=PbJt7-a2274 at 1:15:16. It is connected to Line 29 in Recipes.js file */
